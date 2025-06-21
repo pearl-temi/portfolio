@@ -7,4 +7,4 @@ It includes sections like:
 - Projects
 - Contact Info
 
-Live version: [https://yourusername.github.io/portfolio/](https://yourusername.github.io/portfolio/)
+Live version: [https://pearl-temi.github.io/portfolio/](https://pearl-temi.github.io/portfolio/)
